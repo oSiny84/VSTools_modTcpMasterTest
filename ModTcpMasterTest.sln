@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModTcpMasterTest", "ModTcpMasterTest\ModTcpMasterTest.csproj", "{390E8615-914B-4B94-8E27-CFA5AC63A763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390E8615-914B-4B94-8E27-CFA5AC63A763}.Debug|x86.ActiveCfg = Debug|x86
+		{390E8615-914B-4B94-8E27-CFA5AC63A763}.Debug|x86.Build.0 = Debug|x86
+		{390E8615-914B-4B94-8E27-CFA5AC63A763}.Release|x86.ActiveCfg = Release|x86
+		{390E8615-914B-4B94-8E27-CFA5AC63A763}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
